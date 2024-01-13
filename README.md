@@ -6,6 +6,8 @@
 - PostgreSQL
 - Design Patterns (Factory Method, Strategies)
 - SOLID principles
+- Rest API
+- Model-View-Controller
 
 # Description
 This is a loan management framework developed for the Detailed Software Design class at Digital Metropole Institute.
